@@ -11,5 +11,5 @@ Pricing interest-rate financial derivatives, as a major problem, needs an approa
 Original solution, on https://arxiv.org/abs/1904.05803, is reproduced here.
 
 ## References
-Towards Pricing Financial Derivatives with an IBM Quantum Computer: https://arxiv.org/abs/1904.05803
-Quantum Principal Components Analysis: https://arxiv.org/abs/1307.0401
+- Towards Pricing Financial Derivatives with an IBM Quantum Computer: https://arxiv.org/abs/1904.05803
+- Quantum Principal Components Analysis: https://arxiv.org/abs/1307.0401
