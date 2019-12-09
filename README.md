@@ -2,8 +2,7 @@
 
 ## Challenge
 
-*Quantum Finance: Pricing Financial derivatives using IBMQX*
-    https://github.com/qiskit-community/qiskit-hackathon-bilbao-19/issues/12
+*Quantum Finance: Pricing Financial derivatives using IBMQX*: https://github.com/qiskit-community/qiskit-hackathon-bilbao-19/issues/12
     
 
 ## What's this about?
