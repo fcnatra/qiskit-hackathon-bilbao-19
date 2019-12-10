@@ -18,6 +18,8 @@ Original solution, on https://arxiv.org/abs/1904.05803, is reproduced here.
 
 - [Data](https://github.com/ibonreinoso/qiskit-hackathon-bilbao-19/blob/master/DAX_PERFORMANCE_INDEX.csv): Data from some companies in the DAX (German Stock Index).
 
+- [InnoLab Hackathon.pptx](https://github.com/ibonreinoso/qiskit-hackathon-bilbao-19/blob/master/InnoLab%20Hackathon.pptx): Presentation
+
 ## Adittional Content
 
 - [Seedwork/classical_pca.py](Seedwork/classical_pca.py): classical PCA algorithm, used to compare.
