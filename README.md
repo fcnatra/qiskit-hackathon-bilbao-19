@@ -12,6 +12,8 @@ Original solution, on https://arxiv.org/abs/1904.05803, is reproduced here.
 
 ## Main Content
 
+- [Quantum PCA.html](https://github.com/ibonreinoso/qiskit-hackathon-bilbao-19/blob/master/Quantum%20PCA.html): Html version of jupyter notebook with quantum PCA algorithm implementation explained.
+
 - [Quantum PCA.ipynb](https://github.com/ibonreinoso/qiskit-hackathon-bilbao-19/blob/master/Quantum%20PCA.ipynb): Jupyter notebook with quantum PCA algorithm implementation explained.
 
 - [Data](https://github.com/ibonreinoso/qiskit-hackathon-bilbao-19/blob/master/DAX_PERFORMANCE_INDEX.csv): Data from some companies in the DAX (German Stock Index).
